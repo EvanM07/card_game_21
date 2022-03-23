@@ -1,0 +1,32 @@
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\TwentyOne\bin\Debug\net5.0\TwentyOne.exe
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\TwentyOne\bin\Debug\net5.0\TwentyOne.deps.json
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\TwentyOne\bin\Debug\net5.0\TwentyOne.runtimeconfig.json
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\TwentyOne\bin\Debug\net5.0\TwentyOne.runtimeconfig.dev.json
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\TwentyOne\bin\Debug\net5.0\TwentyOne.dll
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\TwentyOne\bin\Debug\net5.0\ref\TwentyOne.dll
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\TwentyOne\bin\Debug\net5.0\TwentyOne.pdb
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\TwentyOne\obj\Debug\net5.0\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\TwentyOne\obj\Debug\net5.0\TwentyOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\TwentyOne\obj\Debug\net5.0\TwentyOne.AssemblyInfoInputs.cache
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\TwentyOne\obj\Debug\net5.0\TwentyOne.AssemblyInfo.cs
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\TwentyOne\obj\Debug\net5.0\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\TwentyOne\obj\Debug\net5.0\TwentyOne.dll
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\TwentyOne\obj\Debug\net5.0\ref\TwentyOne.dll
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\TwentyOne\obj\Debug\net5.0\TwentyOne.pdb
+C:\Users\Laptop\Documents\GitHub\Basic C-Sharp_Projects\TwentyOne\obj\Debug\net5.0\TwentyOne.genruntimeconfig.cache
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\TwentyOne\bin\Debug\net5.0\TwentyOne.exe
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\TwentyOne\bin\Debug\net5.0\TwentyOne.deps.json
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\TwentyOne\bin\Debug\net5.0\TwentyOne.runtimeconfig.json
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\TwentyOne\bin\Debug\net5.0\TwentyOne.runtimeconfig.dev.json
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\TwentyOne\bin\Debug\net5.0\TwentyOne.dll
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\TwentyOne\bin\Debug\net5.0\ref\TwentyOne.dll
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\TwentyOne\bin\Debug\net5.0\TwentyOne.pdb
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\TwentyOne\obj\Debug\net5.0\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\TwentyOne\obj\Debug\net5.0\TwentyOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\TwentyOne\obj\Debug\net5.0\TwentyOne.AssemblyInfoInputs.cache
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\TwentyOne\obj\Debug\net5.0\TwentyOne.AssemblyInfo.cs
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\TwentyOne\obj\Debug\net5.0\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\TwentyOne\obj\Debug\net5.0\TwentyOne.dll
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\TwentyOne\obj\Debug\net5.0\ref\TwentyOne.dll
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\TwentyOne\obj\Debug\net5.0\TwentyOne.pdb
+C:\Users\Laptop\Documents\GitHub\basic_cSharp_projects\TwentyOne\obj\Debug\net5.0\TwentyOne.genruntimeconfig.cache
