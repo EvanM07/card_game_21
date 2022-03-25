@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9aby8csZpDkgs4aXhHFUkJpZoFBztwIpevxQbToW3icRhDzz+EtzqItUSZSdldqevZeoSxDml7rZllwfahxarg==",
+  "dgSpecHash": "AZHSLpgP9k404OFOvWaqazKk8380ERB99k4ZpEHI/iWzvRVn4AYJiXOZ+4ORXRpcpyWWdfeKGxXQivvJMS0NvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Laptop\\Documents\\GitHub\\basic_cSharp_projects\\TwentyOne\\TwentyOne.csproj",
+  "projectFilePath": "C:\\Users\\Laptop\\Documents\\GitHub\\card_game_21\\TwentyOne.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

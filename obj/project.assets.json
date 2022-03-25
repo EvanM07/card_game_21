@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Laptop\\Documents\\GitHub\\basic_cSharp_projects\\TwentyOne\\TwentyOne.csproj",
+      "projectUniqueName": "C:\\Users\\Laptop\\Documents\\GitHub\\card_game_21\\TwentyOne.csproj",
       "projectName": "TwentyOne",
-      "projectPath": "C:\\Users\\Laptop\\Documents\\GitHub\\basic_cSharp_projects\\TwentyOne\\TwentyOne.csproj",
+      "projectPath": "C:\\Users\\Laptop\\Documents\\GitHub\\card_game_21\\TwentyOne.csproj",
       "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Laptop\\Documents\\GitHub\\basic_cSharp_projects\\TwentyOne\\obj\\",
+      "outputPath": "C:\\Users\\Laptop\\Documents\\GitHub\\card_game_21\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
