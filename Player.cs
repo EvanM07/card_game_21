@@ -26,21 +26,24 @@ namespace TwentyOne
             if (Balance - amount < 0 )
             {
                 Console.WriteLine("You do not have enough to place a bet that size ");
-
+                return false;
             }
 
             else
             {
                 Balance -= amount;
+                return true;
+
             }
-            return false;
         }
 
         public static Game operator+(Game game, Player player)
         {
             game.Players.Add(player);
             return game;
+
         }
+
         public static Game operator-(Game game, Player player)
         {
             game.Players.Remove(player);

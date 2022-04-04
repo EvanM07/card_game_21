@@ -73,7 +73,7 @@ namespace TwentyOne
         {
             int[] playerResults = GetAllPossibleHandValues(PlayerHand);
             int[] dealerResults = GetAllPossibleHandValues(DearHand);
-
+            
             int playerScore = playerResults.Where(x => x < 22).Max();
             int dealerScore = dealerResults.Where(x => x < 22).Max();
 
