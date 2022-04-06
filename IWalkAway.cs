@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace TwentyOne.Interfaces 
 {
-    interface IWalkAway
+   public interface IWalkAway
     {
-        public void WalkAway(Player player);
+         void WalkAway(Player player);
 
     }
 }

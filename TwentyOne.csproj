@@ -5,4 +5,10 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="Casino">
+      <HintPath>TwentyOne\Casino\obj\Debug\Casino.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

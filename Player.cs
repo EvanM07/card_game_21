@@ -20,12 +20,12 @@ namespace TwentyOne
         public string  Name  { get; set; }
         public bool isActivelyPlaying { get; set; }
         public bool Stay { get; set; }
-
+        public Guid Id { get; set; }
         public bool Bets(int amount)
         {
             if (Balance - amount < 0 )
             {
-                Console.WriteLine("You do not have enough to place a bet that size ");
+                Console.WriteLine("You do not have enough money to place that bet ! ");
                 return false;
             }
 

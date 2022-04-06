@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TwentyOne.Interfaces;
 
 namespace TwentyOne
 {
-   public class TwentyOneGame : Game,IWalkAway
+   public class TwentyOneGame : Game
     {
         public TwentyOneDealer Dealer { get; set; }
         public override void Play()
@@ -44,7 +45,7 @@ namespace TwentyOne
                             bool blackJack = TwentyOneRules.CheckForBlackJack(player.Hand);
                             if (blackJack)
                             {
-                                Console.WriteLine("BlackJac! {0} wins {1}", player.Name, Bets[player]);
+                                Console.WriteLine("BlackJack! {0} Wins {1}", player.Name, Bets[player]);
                                 player.Balance += Convert.ToInt32((Bets[player] * 1.5) + Bets[player]);
                                 return;
                             }
