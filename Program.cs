@@ -1,10 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.SqlTypes;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using TwentyOne;
+using System.Data;
 
 namespace TwentyOne
 {
@@ -66,7 +69,33 @@ namespace TwentyOne
             Console.ReadLine();
 
         }
+        private static void UpdateDbWithException(Exception ex)
+        {
+            string connectionstring = @"Data Source=(localdb)\ProjectsV13;Initial Catalog=TwentyOneGame;
+                                        Integrated Security=True;Connect Timeout=30;Encrypt=False;
+                                        TrustServerCertificate=False;ApplicationIntent=ReadWrite;
+                                        MultiSubnetFailover=False";
 
+            string queryString = @"INSERT INTO Exceptions (ExceptionType, ExceptionMessage, TimeStamp) VALUES
+                                   (@ExceptionType, @ExceptionMessage, @TimeStamp)";
+
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                SqlCommand command = new SqlCommand(queryString, connection);
+                command.Parameters.Add("@Exception", SqlDbType.VarChar);
+                command.Parameters.Add("@ExceptionMessge", SqlDbType.VarChar);
+                command.Parameters.Add("@TImeStamp ", SqlDbType.DateTime);
+
+                command.Parameters["@ExceptionType"].Value = ex.SetType().ToString();
+                command.Parameters["@ExceptionMessage"].Value ex.Message;
+                command.Parameters["@TimeStamp"].Value = DateTime.Now;
+
+                connection.Open();
+                command.ExecuteNonQuery();
+                
+            }
+
+        }
     }
 }
 
